@@ -1,0 +1,9 @@
+Harish Venkatesan - MUMT 619 Project - Winter 2018
+Seminar: Input Devices and Musical Interaction
+
+Implementation of Complementary Filter proposed by Valenti et al. in "Keeping Good Estimate: A Quaternion-based Orientation filter for IMUs and MARGs" on the Arduino platform.
+
+References
+[1] Valenti, R.G.; Dryanovski, I.; Xiao, J. Keeping a Good Attitude: A Quaternion-Based Orientation Filter for IMUs and MARGs. Sensors 2015, 15, 19302-19330.
+[2] Webpage on â€œSimple and Effective Magnetometer Calibrationâ€ by Kris Weiner: https://github.com/kriswiner/MPU6050/wiki/Simple-and-Effective-Magnetometer-Calibration
+
